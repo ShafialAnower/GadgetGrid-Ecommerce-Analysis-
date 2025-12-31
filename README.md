@@ -8,7 +8,6 @@ In response, adgetGrid’s marketing, operations, and product teams sought to be
 # Entity Relationship Diagram (ERD)
 
 ![Image](https://github.com/user-attachments/assets/ab2afc77-25f3-456b-b332-19766ca9ba81)
-
 # Key Analyses
 Overall sales trends
 Month-over-month seasonal growth rates in sales
