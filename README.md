@@ -13,3 +13,8 @@ Overall sales trends
 Month-over-month seasonal growth rates in sales
 Loyalty program performance
 Apple products – refunds rates, total number of refunds, and average order values (AOV)
+
+Key findings include:
+
+Loyalty Program Success: The loyalty program has emerged as a key growth engine. In 2021-2022, loyalty members made more purchases than non-members and, by 2022, spent approximately $30 more on average per order.
+Product & Refund Tension: Refund trends highlight a divide between high-volume and high-value products. While high-volume items like AirPods generate the most returns by count, premium products like the ThinkPad Laptop and Macbook Air Laptop, have the highest refund rates, signaling a potential gap in customer expectations versus product quality or price.
