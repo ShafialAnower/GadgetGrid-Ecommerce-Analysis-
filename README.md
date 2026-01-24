@@ -18,3 +18,8 @@ Key findings include:
 
 Loyalty Program Success: The loyalty program has emerged as a key growth engine. In 2021-2022, loyalty members made more purchases than non-members and, by 2022, spent approximately $30 more on average per order.
 Product & Refund Tension: Refund trends highlight a divide between high-volume and high-value products. While high-volume items like AirPods generate the most returns by count, premium products like the ThinkPad Laptop and Macbook Air Laptop, have the highest refund rates, signaling a potential gap in customer expectations versus product quality or price.
+
+# Overall Trend in Sales 2019-2022
+Sales surged in 2020, primarily due to pandemic-related shifts in consumer behavior.
+Beginning in 2021, sales declined as pandemic-driven purchasing slowed
+
