@@ -17,6 +17,8 @@ GadgetGrid, a global e-commerce electronics provider founded in 2018, experience
 Option 3: Narrative & Engaging (Best for an executive summary)
 After launching in 2018, GadgetGrid found itself in the right place at the right time when the pandemic sent global demand for home office tech soaring. However, the subsequent "post-pandemic slump" of 2021 and 2022 has prompted a deep dive into the company’s health. By examining the four-year period leading up to 2022, GadgetGrid’s leadership aims to separate temporary market trends from long-term performance, ensuring future strategies are built on a more stable foundation.
 
+#Transfer notes from Notion once done with exploratory analysis!!
+
 # Entity Relationship Diagram (ERD)
 
 ![Image](https://github.com/user-attachments/assets/ab2afc77-25f3-456b-b332-19766ca9ba81)
