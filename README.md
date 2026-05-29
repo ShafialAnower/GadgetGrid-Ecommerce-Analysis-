@@ -6,7 +6,7 @@ GadegtGrid is a global e-commerce company founded in 2018 that sells popular ele
 In response, adgetGrid’s marketing, operations, and product teams sought to better understand the key factors driving these changes in performance. The following analysis examines company data from 2019 through 2022 to identify trends, assess the effectiveness of marketing and product initiatives, and provide actionable insights to guide future growth strategies. The stakeholders want to focus on the following examples:
 
 
-Trial (Gemini): 
+Feedback: Need to rework the whole project overview information!! Too much text and clutter at times. Overwhelming
 
 Option 1: Professional & Analytical (Best for a formal report)
 Established in 2018, GadgetGrid is an international electronics retailer specializing in premium brands like Apple and Lenovo. While the company saw exponential growth during the COVID-19 pandemic due to the sudden shift toward remote work, revenue began to retract in 2021 and 2022 as market conditions normalized. This analysis reviews data from 2019–2022 to pinpoint the drivers behind these fluctuations and evaluate internal initiatives, offering stakeholders data-driven recommendations for future scaling.
