@@ -37,3 +37,19 @@ Product & Refund Tension: Refund trends highlight a divide between high-volume a
 Sales surged in 2020, primarily due to pandemic-related shifts in consumer behavior.
 Beginning in 2021, sales declined as pandemic-driven purchasing slowed
 
+Sales Trends
+Total revenue peaked in December 2020 at $1.3M, driven by pandemic-accelerated digital adoption, before entering a sustained decline through 2021–2022.
+The monthly average revenue across the period was $586K, with a consistent seasonal uplift in Q3–Q4 (September–November) observed across all four years.
+AOV remained relatively stable between $207–$345, with 2020 figures inflated by pandemic conditions and not reflective of underlying business performance.
+Product Performance
+The 27in Gaming Monitor, Apple AirPods, and MacBook Air are the top three revenue-generating products.
+The Apple iPhone underperforms on both revenue and units sold despite an Apple-aligned customer base.
+Laptop refund rates (ThinkPad 11.8%, MacBook Air 11.4%) are more than double the portfolio average of 5% and represent the most significant refund risk.
+
+# Geography 
+North America leads with $14.5M in revenue and 55,803 orders, which is nearly double than EMEA, the next largest region, at $8M.
+EMEA presents the strongest near-term growth opportunity given comparable AOV to North America.
+APAC and LATAM remain underdeveloped markets requiring localisation investment before meaningful growth is achievable.
+
+<img width="1103" height="609" alt="image" src="https://github.com/user-attachments/assets/6ef0e98f-b831-4c72-bca1-3a675eecbbe7" />
+
