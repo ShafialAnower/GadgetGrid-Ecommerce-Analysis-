@@ -3,7 +3,7 @@
 # Overview
 GadegtGrid is a global e-commerce company founded in 2018 that sells popular electronics from brands such as Apple, Samsung, and Lenovo through its website and mobile app. A little over a year after its founding, GadgetGrid experienced a significant surge in sales during the COVID-19 pandemic, as global demand for remote work and home technology solutions increased sharply. However, as the pandemic-driven demand subsided, the company began to see a notable decline in sales through 2021 and 2022.
 
-# need to ADD ERD THROUGH EXCALIDRAW
+# Deep-Dive Insights 
 
 In response, adgetGrid’s marketing, operations, and product teams sought to better understand the key factors driving these changes in performance. The following analysis examines company data from 2019 through 2022 to identify trends, assess the effectiveness of marketing and product initiatives, and provide actionable insights to guide future growth strategies. The stakeholders want to focus on the following examples:
 
@@ -51,6 +51,26 @@ Laptop refund rates (ThinkPad 11.8%, MacBook Air 11.4%) are more than double the
 # Geography 
 North America leads with $14.5M in revenue and 55,803 orders, which is nearly double than EMEA, the next largest region, at $8M.
 EMEA presents the strongest near-term growth opportunity given comparable AOV to North America.
+
+# Presentation Structure 
+
+### Slide - Introduction:
+
+- Thank you for the opportunity, My name is Shafial Anower. I have a bachelors in business administration in Computer Information systems. I learned a lot throuhout this E-commerce analytics Externship. I am excited to share some of the insights I found and how to proceed with next steps.
+
+### Slide - Table of Contents
+
+First, I will start with a quick project overview and business problem to give some context and then I am going to do a high level walk-through with the analysis I done and share some of the insights I discovered primarily focusing on the first half 2025 - focusing on product performances and Meta Campaigns. Afterwards, I’ll follow up with some recommendations and final wrap it up with some data limitation which limited some of the possible insights. 
+
+### Slide - Business Problem/Content
+
+In the first half of the year 2025, Breaking Games spent **$37,000** on Meta ads and pulled in about **$61,000** in sales. . The Breaking Games team has mentioned that New-customer growth has dropped **48%** year over year
+
+The goal of this project is to investigate which products deserve the commit for reprints and if if the Meta Ads spend was actually a win?
+
+### Slide - Product Performance
+
+top 10 products accounted for 75% of the revenue from January to July in 2025. This is pretty common in most companies where flagship products will carry the heavy load of the company’s sales. Dwellings of Eldervale is the best example for it where all of the dwellig product alone accounted for ex% of total sales.
 APAC and LATAM remain underdeveloped markets requiring localisation investment before meaningful growth is achievable.
 
 <img width="1103" height="609" alt="image" src="https://github.com/user-attachments/assets/6ef0e98f-b831-4c72-bca1-3a675eecbbe7" />
