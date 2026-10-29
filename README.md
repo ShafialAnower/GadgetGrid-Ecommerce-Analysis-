@@ -74,4 +74,5 @@ top 10 products accounted for 75% of the revenue from January to July in 2025. T
 APAC and LATAM remain underdeveloped markets requiring localisation investment before meaningful growth is achievable.
 
 <img width="1103" height="609" alt="image" src="https://github.com/user-attachments/assets/6ef0e98f-b831-4c72-bca1-3a675eecbbe7" />
+<img width="610" height="291" alt="image1" src="https://github.com/user-attachments/assets/f466f14e-656e-48d5-8c8c-9120763e23cb" />
 
