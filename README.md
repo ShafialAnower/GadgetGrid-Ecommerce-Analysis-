@@ -1,7 +1,20 @@
 # GadgetGrid-Ecommerce-Analysis
 
-# Overview
+## Table of Contents
+- [Background](#background)
+- [Key Analyses](#key-analyses)
+- [Dataset Entity Relationship Diagram (ERD)](#dataset-entity-relationship-diagram-erd)
+- [Overall Trend in Sales 2019-2022](#overall-trend-in-sales-2019-2022)
+- [Month-over-Month Order Volume Growth Rates](#month-over-month-order-volume-growth-rates)
+- [Loyalty Program](#loyalty-program)
+- [Refund Rates – Apple Products](#refund-rates--apple-products)
+- [Key Takeaways](#key-takeaways)
+- [Recommendations by Team](#recommendations-by-team)
+
+## Overview
 GadegtGrid is a global e-commerce company founded in 2018 that sells popular electronics from brands such as Apple, Samsung, and Lenovo through its website and mobile app. A little over a year after its founding, GadgetGrid experienced a significant surge in sales during the COVID-19 pandemic, as global demand for remote work and home technology solutions increased sharply. However, as the pandemic-driven demand subsided, the company began to see a notable decline in sales through 2021 and 2022.
+
+## Executive Summary 
 
 In response, GadgetGrid’s marketing, operations, and product teams sought to better understand the key factors driving these changes in performance. The following analysis examines company data from 2019 through 2022 to identify trends, assess the effectiveness of marketing and product initiatives, and provide actionable insights to guide future growth strategies. The stakeholders want to focus on the following examples:
 
