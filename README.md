@@ -3,8 +3,7 @@
 ## Table of Contents
 - [Overview](#Overview)
 - [Executive Summary](#executive-summary )
-- [Key Analyses](#key-analyses)
-- [Dataset Entity Relationship Diagram (ERD)](#dataset-entity-relationship-diagram-erd)
+- [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
 - [Overall Trend in Sales 2019-2022](#overall-trend-in-sales-2019-2022)
 - [Month-over-Month Order Volume Growth Rates](#month-over-month-order-volume-growth-rates)
 - [Loyalty Program](#loyalty-program)
@@ -19,7 +18,7 @@ GadegtGrid is a global e-commerce company founded in 2018 that sells popular ele
 
 In response, GadgetGrid’s marketing, operations, and product teams sought to better understand the key factors driving these changes in performance. The following analysis examines company data from 2019 through 2022 to identify trends, assess the effectiveness of marketing and product initiatives, and provide actionable insights to guide future growth strategies. The stakeholders want to focus on the following examples:
 
-## Key Analyses
+Key Analyses
 -	Overall **sales trends**
 -	Month-over-month **seasonal growth rates** in sales
 -	**Loyalty program** performance
