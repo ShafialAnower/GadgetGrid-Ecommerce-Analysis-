@@ -18,7 +18,7 @@ GadegtGrid is a global e-commerce company founded in 2018 that sells popular ele
 
 In response, GadgetGrid’s marketing, operations, and product teams sought to better understand the key factors driving these changes in performance. The following analysis examines company data from 2019 through 2022 to identify trends, assess the effectiveness of marketing and product initiatives, and provide actionable insights to guide future growth strategies. The stakeholders want to focus on the following examples:
 
-Key Analyses
+Key Analyses:
 -	Overall **sales trends**
 -	Month-over-month **seasonal growth rates** in sales
 -	**Loyalty program** performance
