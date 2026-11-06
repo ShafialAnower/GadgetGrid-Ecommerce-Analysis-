@@ -25,7 +25,7 @@ Key Analyses:
 -	**Apple products** – refunds rates, total number of refunds, and average order values (AOV)
 
 # Entity Relationship Diagram (ERD)
--The relationship between the fields and how they connect with each other. 
+- The relationship between the fields and how they connect with each other. 
 ![Image](https://github.com/user-attachments/assets/ab2afc77-25f3-456b-b332-19766ca9ba81)
 
 ## Overall Trend in Sales 2019-2022
