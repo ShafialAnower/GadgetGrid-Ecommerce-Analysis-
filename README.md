@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Executive Summary](#Executive Summary )
+- [Executive Summary](#ExecutiveSummary )
 - [Key Analyses](#key-analyses)
 - [Dataset Entity Relationship Diagram (ERD)](#dataset-entity-relationship-diagram-erd)
 - [Overall Trend in Sales 2019-2022](#overall-trend-in-sales-2019-2022)
