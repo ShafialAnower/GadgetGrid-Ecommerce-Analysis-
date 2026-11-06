@@ -13,9 +13,126 @@ In response, GadgetGrid’s marketing, operations, and product teams sought to b
 
 # Entity Relationship Diagram (ERD)
 -The relationship between the fields and how they connect with each other. 
-
 ![Image](https://github.com/user-attachments/assets/ab2afc77-25f3-456b-b332-19766ca9ba81)
 
+## Overall Trend in Sales 2019-2022
+-	Sales surged in 2020, primarily due to pandemic-related shifts in consumer behavior.
+-	Beginning in 2021, sales declined as pandemic-driven purchasing slowed.
+
+<div align="center">
+      
+| <big>Total Sales</big> | <big>Total Order Volume</big> | <big>AOV</big> |
+|---------------------|---------------------|---------------------|
+|    $28M   |     108K   |     $260  |
+
+</div>
+
+<p align="center">
+  <img width="700" alt="Sales (3)" src="https://github.com/user-attachments/assets/a0f48562-e05e-44ca-a82e-99365f154d64" />
+</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td><img width="600" alt="Orders (3)" src="https://github.com/user-attachments/assets/f7aeadd3-76ae-4d15-9786-03e1547ca6ca" /></td>
+    <td><img width="600" alt="AOV (3)" src="https://github.com/user-attachments/assets/84786c59-b08d-4f8d-b2f9-f3ea837794a2" /></td>
+  </tr>
+</table>
+</div>
+
+## Key Insight: Four Core Products Drive 96% of Revenue
+<img width="2448" height="1026" alt="image" src="https://github.com/user-attachments/assets/f1a516ea-d491-4fcf-8bee-3e73ce667198" />
+- The 27" 4K Gaming Monitor, Apple Airpods Headphones, Apple Macbook Air Laptop, and Lenovo ThinkPad Laptop together consistently made up 96% of Revenue.
+- Revenue share of the two laptops reached 42% ($4.2m) in 2020, and fell to 27% ($1.4m) by 2022, because of fewer orders. AOVs tend to be high ($1.1k-$1.6k), suggesting reduced demand for high-end products.
+For the Product Team, declining revenue from high-value products points to growing price sensitivity among customers, so GadgetGrids may need to shift away from premium products and target a more price-conscious segment.
+
+## Month-over-Month Order Volume Growth Rates
+-	Varied significantly over the analysis period, reflecting external market conditions and shifts in consumer behavior. 
+-	Highest growth rate **46.2%** in **March 2020**
+-	Lowest growth rate **-46.9%** in **October 2022**
+-	**Seasonality patterns:**
+      - **Positive** growth in **November** and **December**
+      - **Negative** growth in **February** and **October**
+
+<div align="center">
+<img width="700" alt="MoM" src="https://github.com/user-attachments/assets/6d71ad06-bc55-4341-9a48-780a614671c2" />
+</div>
+
+## Loyalty Program
+-	**Initially, members had less sales volume** over non-members, indicating limited early adoption and engagement. 
+-	Beginning in **March 2021**, the program gained traction 
+-	By the **end of 2022**, however, member sales again declined, signaling waning engagement and the need for renewed incentives.
+
+<div align="center">
+<img width="700" alt="Loyalty" src="https://github.com/user-attachments/assets/17cae1b1-d824-445b-85ef-bfbb75fdba07" />
+</div>
+
+## Refund Rates – Apple Products
+-	Notable differences in **refund rates, average order value (AOV)**, and **number of refunds**.
+-	**MacBook** had the **highest AOV** of **$1,588**, but it also exhibited the **highest refund rate** of **11.4%**. 
+     -	Suggests potential issues that may be affecting customer satisfaction. 
+
+<div align="center">
+<img width="600" alt="Refunds" src="https://github.com/user-attachments/assets/992ef168-2ac5-4ffb-ae74-b5b9c7b4346d" />
+</div>
+
+## Key Takeaways
+-	2020 growth surge is unsustainable post-pandemic.
+-	Seasonality patterns should be anticipated and leveraged.
+-	Loyalty program shows promise but needs re-engagement strategies.
+-	The MacBook requires a deeper quality and satisfaction analysis.
+-	Data-driven adjustments in marketing, product, and sales will be critical to long-term recovery and growth.
+
+## Recommendations by Team
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      
+### Marketing Team
+
+Goal: Reignite demand, strengthen customer loyalty, and stabilize sales throughout the year.
+-	**Re-engage loyalty program members** through personalized email and in-app campaigns.
+    -	Exclusive discounts, early access to new products, tier-based rewards, targeted marketing campaigns, personalized offers
+-	**Target seasonal demand spikes** (November–December).
+    -	Increase ad spending and promotional campaigns before these months.
+    -	Offer bundled discounts or limited-time offers to boost AOV.
+-	**Mitigate seasonal slumps** (February and October).
+    -	Flash sales, referral bonuses, or “upgrade events”
+-	**Gather customer feedback** from refund-related surveys to identify product experience issues that could inform both product and customer communication strategies.
+
+    </td>
+    <td width="33%" valign="top">
+      
+### Product Team
+
+Goal: Improve customer satisfaction, reduce refund rates, and align products with evolving market needs.
+-	**Investigate high refund rates** for MacBooks.
+    -	Analyze return reasons (defects, performance issues, unmet expectations, etc.)
+    -	Partner with customer support to identify recurring complaints.
+-	**Enhance product quality checks** and pre-purchase information.
+    -	Provide clearer product specs, comparison guides, or compatibility information online
+-	**Use post-purchase surveys** to gauge satisfaction and identify early indicators of dissatisfaction.
+-	**Introduce extended warranties or support plans** to increase buyer confidence, particularly for high-priced items like MacBooks.
+
+    </td>
+    <td width="33%" valign="top">
+      
+### Sales Team
+
+Goal: Increase sales and capitalize on existing customer base.
+-	**Leverage the loyalty program** as a retention and upselling tool.
+    -	Offer bonus points for multi-product purchases or referrals.
+-	**Use historical sales data**.
+    -	Forecast demand for seasonal peaks and adjust inventory accordingly.
+    -	Identify high-value customers and offer them exclusive upgrade offers.
+-	**Collaborate with Marketing** to cross-sell and upsell during known high-growth months (e.g., bundle accessories with popular items).
+-	**Train the sales team** to proactively communicate post-purchase support options and reduce potential refund triggers.
+-	**Monitor performance metrics** (sales, order volume, AOV) regularly to track the impact of incentive programs.
+
+    </td>
+  </tr>
+</table>
 
 
 
@@ -25,60 +142,4 @@ In response, GadgetGrid’s marketing, operations, and product teams sought to b
 
 
 
-
-
-
-
-
-# Key Analyses 
-Overall sales trends
-Month-over-month seasonal growth rates in sales
-Loyalty program performance
-Apple products – refunds rates, total number of refunds, and average order values (AOV)
-
-Key findings include:
-
-Loyalty Program Success: The loyalty program has emerged as a key growth engine. In 2021-2022, loyalty members made more purchases than non-members and, by 2022, spent approximately $30 more on average per order.
-Product & Refund Tension: Refund trends highlight a divide between high-volume and high-value products. While high-volume items like AirPods generate the most returns by count, premium products like the ThinkPad Laptop and Macbook Air Laptop, have the highest refund rates, signaling a potential gap in customer expectations versus product quality or price.
-
-# Overall Trend in Sales 2019-2022
-Sales surged in 2020, primarily due to pandemic-related shifts in consumer behavior.
-Beginning in 2021, sales declined as pandemic-driven purchasing slowed
-
-Sales Trends
-Total revenue peaked in December 2020 at $1.3M, driven by pandemic-accelerated digital adoption, before entering a sustained decline through 2021–2022.
-The monthly average revenue across the period was $586K, with a consistent seasonal uplift in Q3–Q4 (September–November) observed across all four years.
-AOV remained relatively stable between $207–$345, with 2020 figures inflated by pandemic conditions and not reflective of underlying business performance.
-Product Performance
-The 27in Gaming Monitor, Apple AirPods, and MacBook Air are the top three revenue-generating products.
-The Apple iPhone underperforms on both revenue and units sold despite an Apple-aligned customer base.
-Laptop refund rates (ThinkPad 11.8%, MacBook Air 11.4%) are more than double the portfolio average of 5% and represent the most significant refund risk.
-
-# Geography 
-North America leads with $14.5M in revenue and 55,803 orders, which is nearly double than EMEA, the next largest region, at $8M.
-EMEA presents the strongest near-term growth opportunity given comparable AOV to North America.
-
-# Presentation Structure 
-
-### Slide - Introduction:
-
-- Thank you for the opportunity, My name is Shafial Anower. I have a bachelors in business administration in Computer Information systems. I learned a lot throuhout this E-commerce analytics Externship. I am excited to share some of the insights I found and how to proceed with next steps.
-
-### Slide - Table of Contents
-
-First, I will start with a quick project overview and business problem to give some context and then I am going to do a high level walk-through with the analysis I done and share some of the insights I discovered primarily focusing on the first half 2025 - focusing on product performances and Meta Campaigns. Afterwards, I’ll follow up with some recommendations and final wrap it up with some data limitation which limited some of the possible insights. 
-
-### Slide - Business Problem/Content
-
-In the first half of the year 2025, Breaking Games spent **$37,000** on Meta ads and pulled in about **$61,000** in sales. . The Breaking Games team has mentioned that New-customer growth has dropped **48%** year over year
-
-The goal of this project is to investigate which products deserve the commit for reprints and if if the Meta Ads spend was actually a win?
-
-### Slide - Product Performance
-
-top 10 products accounted for 75% of the revenue from January to July in 2025. This is pretty common in most companies where flagship products will carry the heavy load of the company’s sales. Dwellings of Eldervale is the best example for it where all of the dwellig product alone accounted for ex% of total sales.
-APAC and LATAM remain underdeveloped markets requiring localisation investment before meaningful growth is achievable.
-
-<img width="1103" height="609" alt="image" src="https://github.com/user-attachments/assets/6ef0e98f-b831-4c72-bca1-3a675eecbbe7" />
-<img width="610" height="291" alt="image1" src="https://github.com/user-attachments/assets/f466f14e-656e-48d5-8c8c-9120763e23cb" />
 
