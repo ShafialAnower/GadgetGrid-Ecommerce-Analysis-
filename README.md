@@ -1,7 +1,8 @@
 # GadgetGrid-Ecommerce-Analysis
 
 ## Table of Contents
-- [Background](#background)
+- [Overview](#Overview)
+- [Executive Summary](#Executive Summary )
 - [Key Analyses](#key-analyses)
 - [Dataset Entity Relationship Diagram (ERD)](#dataset-entity-relationship-diagram-erd)
 - [Overall Trend in Sales 2019-2022](#overall-trend-in-sales-2019-2022)
