@@ -45,6 +45,7 @@ In response, GadgetGrid’s marketing, operations, and product teams sought to b
 
 - The 27" 4K Gaming Monitor, Apple Airpods Headphones, Apple Macbook Air Laptop, and Lenovo ThinkPad Laptop together consistently made up 96% of Revenue.
 - Revenue share of the two laptops reached 42% ($4.2m) in 2020, and fell to 27% ($1.4m) by 2022, because of fewer orders. AOVs tend to be high ($1.1k-$1.6k), suggesting reduced demand for high-end products.
+
 For the Product Team, declining revenue from high-value products points to growing price sensitivity among customers, so GadgetGrids may need to shift away from premium products and target a more price-conscious segment.
 
 ## Month-over-Month Order Volume Growth Rates
